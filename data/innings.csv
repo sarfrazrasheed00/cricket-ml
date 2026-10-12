@@ -1,0 +1,16 @@
+match_date,player,opposition,venue,batting_position,balls,runs
+2024-01-10,Babar,India,Karachi,3,30,45
+2024-01-10,Rizwan,India,Karachi,1,50,67
+2024-01-15,Fakhar,Australia,Lahore,2,60,89
+2024-01-15,Babar,Australia,Lahore,3,15,12
+2024-01-20,Rizwan,England,Dubai,1,28,34
+2024-01-20,Fakhar,England,Dubai,2,,23
+2024-02-02,Babar,india,Karachi,3,3,0
+2024-02-02,Rizwan,India,Karachi,1,40,51
+2024-02-02,Rizwan,India,Karachi,1,40,51
+2024-02-08,Fakhar,England,,2,70,102
+2024-02-08,Babar,England,Lahore,3,44,610
+2024-02-15,Rizwan,Australia,Dubai,1,35,
+2024-02-15,Babar,Australia,Dubai,3,-12,20
+2024-02-20,Fakhar,India,Lahore,2,25,31
+2024-02-20,Babar,India ,Lahore,3,38,55
